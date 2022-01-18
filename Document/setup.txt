@@ -1,5 +1,8 @@
-VS Studio:
+VS Studio Plugin:
 Veture by Pine Wu
+
+
+https://yarnpkg.com/
 
 git reference:
 https://github.com/PacktPublishing/Front-End-Development-Projects-with-Vue.js

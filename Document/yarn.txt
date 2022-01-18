@@ -1,0 +1,12 @@
+npm i -g corepack
+
+yarn install
+
+yarn init -2
+
+yarn
+
+yarn serve
+
+yarn set version stable
+
