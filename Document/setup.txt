@@ -1,5 +1,8 @@
 VS Studio Plugin:
 Veture by Pine Wu
+Live Server by Ritwick Dey
+Vue 3 Snippets by hollowtree
+
 
 
 https://yarnpkg.com/
